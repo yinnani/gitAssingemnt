@@ -1,2 +1,6 @@
 hii this is file:-> is yash1.txt
+<<<<<<< HEAD
 this file is fix by yash on branch b1
+=======
+hii this file is edited by yash in branch b2
+>>>>>>> b2
